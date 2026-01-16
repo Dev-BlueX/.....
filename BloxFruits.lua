@@ -17,4 +17,4 @@ textLabel.TextYAlignment = Enum.TextYAlignment.Center
 textLabel.Font = Enum.Font.GothamBold
 textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 
-textLabel.Text = "VN: Xin Lỗi Chúng Tôi Cần Thời Gian Điều Chỉnh Lại Script\nEN: Sorry, We Need Time To Adjust The Script"
+textLabel.Text = "VN: Xin Lỗi Chúng Tôi Cần Thời Gian Chỉnh Lại Script\nEN: Sorry, We Need Time To Adjust The Script\nJoin Discord: https://discord.gg/yqaMxpYJy8"
